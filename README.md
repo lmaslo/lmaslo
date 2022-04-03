@@ -7,9 +7,3 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmaslo)](https://github.com/anuraghazra/github-readme-stats)
 
 
-о себе 
-о работе
-об обучении 
-
-языки инструмены
-ссылки на профиль в телеге
