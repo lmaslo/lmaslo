@@ -1,5 +1,18 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Lena</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+### Hey! 
+My name is Lena. I have been a QA Engineer for 4 years.
+
+<table width="100%" border='0'>
+   <tr> 
+    <td width="30%" valign="bottom"><img src="/image/institute.jpg"></td><td valign="middle">St. Petersburg State Technological Institute (Technical University) </br>
+Information technology and management, Automated information processing and management systems.</td></tr>
+    <tr><td width="20%" valign="bottom"><img src="/image/qaguru.jpg"></td><td valign="middle">Школа инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
+   </tr>
+  </table>
+  </br>
+
+
+
+
 
 
 
