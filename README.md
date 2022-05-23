@@ -6,7 +6,7 @@ My name is Lena. I have been a QA Engineer for 4 years.
    <tr> 
     <td width="20%" valign="bottom"><img src="/image/institute.jpg"></td><td valign="middle">St. Petersburg State Technological Institute (Technical University) </br>
 Information technology and management </br> Automated information processing and management systems.</td></tr>
-    <tr><td width="20%" valign="bottom"><img src="/image/qaguru.jpg"></td><td valign="middle">Школа инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
+    <tr><td width="20%" valign="bottom"><img src="/image/qaguru.jpg"></td><td valign="middle">School of Test Automation Engineers <a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
    </tr>
   </table>
   </br>
