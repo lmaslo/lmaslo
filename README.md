@@ -17,6 +17,8 @@ Information technology and management </br> Automated information processing and
 
 ### :star: <a target="_blank" href="https://github.com/lmaslo/FinalProject-API">API Autotests</a> for <a target="_blank" href="https://demoqa.com/">demoqa</a> website
 
+### :star: <a target="_blank" href="https://github.com/lmaslo/FinalProject-Mobile">Mobile Autotests</a> for <a target="_blank" href="https://demoqa.com/">demoqa</a> website
+
 
 
 
