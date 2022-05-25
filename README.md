@@ -24,8 +24,8 @@ Information technology and management </br> Automated information processing and
 
 
 
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmaslo)](https://github.com/anuraghazra/github-readme-stats)
-
-
+### My Stats :
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lmaslo)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lmaslo) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lmaslo)
+---
