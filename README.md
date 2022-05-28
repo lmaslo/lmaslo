@@ -1,6 +1,9 @@
-### Hey! 
-My name is Lena. I have been a QA Engineer for 4 years.
-</br> I'm learning java autotest
+<p align="center">
+<img  src="/image/template (1).png">
+</p>
+
+
+
 
 <table width="100%" border='0'>
    <tr> 
