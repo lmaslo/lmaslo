@@ -3,6 +3,24 @@
 </p>
 
 
+  ## About me:
+  I am a QA Engineer from St. Petersburg.
+  
+  
+  
+ ## Stack:
+ <p align="center">
+<img width="6%" title="Idea" src="images/logo/Idea.svg">
+<img width="6%" title="Java" src="images/logo/Java.svg">
+<img width="6%" title="Selenide" src="images/logo/Selenide.svg">
+<img width="6%" title="Selenoid" src="images/logo/Selenoid.svg">
+<img width="6%" title="Allure Report" src="images/logo/Allure.svg">
+<img width="6%" title="Gradle" src="images/logo/Gradle.svg">
+<img width="6%" title="JUnit5" src="images/logo/Junit5.svg">
+<img width="6%" title="GitHub" src="images/logo/GitHub.svg">
+<img width="6%" title="Jenkins" src="images/logo/Jenkins.svg">
+<img width="6%" title="Telegram" src="images/logo/Telegram.svg">
+</p>
 
 
 <table width="100%" border='0'>
