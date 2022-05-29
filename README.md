@@ -6,9 +6,10 @@
   ## About me:
   I am a QA Engineer from St. Petersburg.
   
+  ## Contact me: 
   <div id="badges">
   <a href="http://linkedin.com/in/elena-masloboishchikova/">
-    <img width="6%" src="image/logo/linkedin.png" alt="LinkedIn Badge"/>
+    <img width="6%" src="image/logo/Linkedin.svg.png" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/maslogirl">
     <img width="6%" src="image/logo/Telegram.svg" alt="Telegram Badge"/>
