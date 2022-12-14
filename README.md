@@ -38,6 +38,9 @@ I want to develop in the direction of automation testing.
   ## My projects:
 ### :star: <a target="_blank" href="https://github.com/lmaslo/FinalProject">UI Autotests</a> for <a target="_blank" href="https://by.wildberries.ru/s"> Wildberries</a> website
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lmaslo&repo=FinalProject)](https://github.com/lmaslo/FinalProject)
+
+
 ### :star: <a target="_blank" href="https://github.com/lmaslo/FinalProject-API">API Autotests</a> for <a target="_blank" href="https://demoqa.com/">demoqa</a> website
 
 ### :star: <a target="_blank" href="https://github.com/lmaslo/FinalProject-Mobile">Mobile Autotests</a> for <a target="_blank" href="https://github.com/wikimedia/apps-android-wikipedia/releases/tag/latest">Wikipedia</a> mobile app
