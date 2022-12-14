@@ -36,16 +36,16 @@ I want to develop in the direction of automation testing.
 
 
   ## My projects:
-### :star: <a target="_blank" href="https://github.com/lmaslo/FinalProject">UI Autotests</a> for <a target="_blank" href="https://by.wildberries.ru/s"> Wildberries</a> website
-
+### :star: UI Autotests for Wildberries website
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lmaslo&repo=FinalProject)](https://github.com/lmaslo/FinalProject)
 
 
-### :star: <a target="_blank" href="https://github.com/lmaslo/FinalProject-API">API Autotests</a> for <a target="_blank" href="https://demoqa.com/">demoqa</a> website
+### :star: API Autotests
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lmaslo&repo=API-reqres.in)](https://github.com/lmaslo/API-reqres.in)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lmaslo&repo=FinalProject-API)](https://github.com/lmaslo/FinalProject-API)
 
 
-### :star: <a target="_blank" href="https://github.com/lmaslo/FinalProject-Mobile">Mobile Autotests</a> for <a target="_blank" href="https://github.com/wikimedia/apps-android-wikipedia/releases/tag/latest">Wikipedia</a> mobile app
+### :star: Mobile Autotests for Wikipedia mobile app
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lmaslo&repo=FinalProject-Mobile)](https://github.com/lmaslo/FinalProject-Mobile)
 
 
