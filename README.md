@@ -42,9 +42,11 @@ I want to develop in the direction of automation testing.
 
 
 ### :star: <a target="_blank" href="https://github.com/lmaslo/FinalProject-API">API Autotests</a> for <a target="_blank" href="https://demoqa.com/">demoqa</a> website
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lmaslo&repo=FinalProject-API)](https://github.com/lmaslo/FinalProject-API)
+
 
 ### :star: <a target="_blank" href="https://github.com/lmaslo/FinalProject-Mobile">Mobile Autotests</a> for <a target="_blank" href="https://github.com/wikimedia/apps-android-wikipedia/releases/tag/latest">Wikipedia</a> mobile app
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lmaslo&repo=FinalProject-Mobile)](https://github.com/lmaslo/FinalProject-Mobile)
 
 
 
