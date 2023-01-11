@@ -44,6 +44,7 @@ I want to develop in the direction of automation testing.
 ### :star: API Autotests
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lmaslo&repo=API-reqres.in)](https://github.com/lmaslo/API-reqres.in)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lmaslo&repo=FinalProject-API)](https://github.com/lmaslo/FinalProject-API)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lmaslo&repo=Stellarburgers-API-Tests)](https://github.com/lmaslo/Stellarburgers-API-Tests)
 
 
 ### :star: Mobile Autotests for Wikipedia mobile app
