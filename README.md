@@ -38,6 +38,7 @@ I want to develop in the direction of automation testing.
   ## My projects:
 ### :star: UI Autotests for Wildberries website
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lmaslo&repo=FinalProject)](https://github.com/lmaslo/FinalProject)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lmaslo&repo=Stellarburgers-UI-Tests)](https://github.com/lmaslo/Stellarburgers-UI-Tests)
 
 
 ### :star: API Autotests
