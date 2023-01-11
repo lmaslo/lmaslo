@@ -28,7 +28,7 @@ I want to develop in the direction of automation testing.
 <img width="6%" title="Selenoid" src="image/logo/Selenoid.svg">
 <img width="6%" title="Allure Report" src="image/logo/Allure.svg">
 <img width="6%" title="Gradle" src="image/logo/Gradle.svg">
-<img width="6%" title="Gradle" src="image/logo/maven.png">
+<img width="6%" title="Maven" src="image/logo/maven.png">
 <img width="6%" title="JUnit5" src="image/logo/Junit5.svg">
 <img width="6%" title="GitHub" src="image/logo/GitHub.svg">
 <img width="6%" title="Jenkins" src="image/logo/Jenkins.svg">
