@@ -4,7 +4,7 @@
 
 
   ## About me:
-  I am a QA Engineer from St. Petersburg for 4 years.<br> 
+  I am a QA Engineer from St. Petersburg for 5 years.<br> 
 I have completed a course on test automation from qaguru( java + selenide)<br> 
 I want to develop in the direction of automation testing.
   
